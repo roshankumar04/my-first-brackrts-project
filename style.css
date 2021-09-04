@@ -1,0 +1,53 @@
+body {
+    background-color: #18FFFF;
+    text-align: center;
+}
+
+#dubai {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #3D5AFE;
+    font-family: Inconsolata;
+}
+
+h2 {
+    font-size: 32px;
+    color: #FF9E80;
+    font-family: Inconsolata;
+}
+
+#intro {
+    background: linear-gradient(#F57F17 0%, #03A9F4 100%);
+    padding: 20px;
+}
+
+#intro2 {
+    padding: 30px;
+    font-size: 23px;
+}
+.menu{
+    list-style:none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
+.link:hover{
+    background-color:lightblue;
+}
+.link{
+    float:left;
+    color:aliceblue;
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-right: 9px;
+    padding-left: 5px;
+    font-family:fantasy;
+    font-size: 20px;
+}
